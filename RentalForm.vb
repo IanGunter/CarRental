@@ -1,4 +1,12 @@
-﻿Option Explicit On
+﻿'Ian Gunter
+'RCET 0265
+'Fall 2020
+'Car Rental
+'https://github.com/IanGunter/CarRental.git
+
+
+
+Option Explicit On
 Option Strict On
 Option Compare Binary
 Public Class RentalForm
